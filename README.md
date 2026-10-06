@@ -1,6 +1,10 @@
 # WINDOWS-SHELL-TOOL
-Admin
 
+Easy to remember commands 
+
+i make everything easy
+
+it has been changed from Ruby to Pascal >>> The Old school
 
 
 
